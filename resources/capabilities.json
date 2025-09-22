@@ -1,0 +1,10 @@
+{
+    "appium:automationName": "UiAutomator2",
+    "platformName": "Android",
+    "appium:deviceName": "Android 15",
+    "appium:udid": "119703849M002035",
+    "appium:appPackage": "asia.ifarmer.investor.dev",
+    "appium:appActivity": "asia.ifarmer.investor.MainActivity",
+    "appium:app": "D:/Automation/Investor/apk/inv_stage.apk",
+    "appium:noReset": false
+}

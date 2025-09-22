@@ -4,6 +4,7 @@
 # Ignore reports and results directories at any level
 **/reports/
 **/results/
+**/apk/
 
 # Ignore backup or temporary files ending with a tilde (~)
 *~

@@ -1,1 +1,0 @@
-Dialog: Allow iFarmer to send you notifications?

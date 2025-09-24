@@ -1,0 +1,15 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Given       User is on the iFarmer Home as a guest user
+When        Click on Login Nav
+Then        On the Login Page
+When        Enter valid email and pin
+And         Click on Login button
+Then        On the iFarmer Home as a logged in user
+","41348","test_case_02_login_valid_user","tests","Wed Sep 24 15:15:34 BDT 2025","failed","Wed Sep 24 15:16:16 BDT 2025","TestDemoApp","test_suite_01","",""
+"Given       User opens the iFarmer mobile application
+Then        Permission Dialog opens
+When        Click on Allow
+Then        Modal opens
+When        Click on cross button
+Then        On the iFarmer Home as a guest user
+","21722","test_case_01_loading_guest_homepage","tests","Wed Sep 24 15:15:13 BDT 2025","failed","Wed Sep 24 15:15:34 BDT 2025","TestDemoApp","test_suite_01","",""

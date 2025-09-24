@@ -1,0 +1,8 @@
+Error:
+Message: Could not proxy command to the remote server. Original error: socket hang up
+Stacktrace:
+UnknownError: Could not proxy command to the remote server. Original error: socket hang up
+    at ProxyRequestError.getActualError (C:\Users\Mahmud-Rabby-QA\AppData\Roaming\npm\node_modules\appium\node_modules\@appium\base-driver\lib\protocol\errors.ts:960:12)
+    at UIA2Proxy.command (C:\Users\Mahmud-Rabby-QA\AppData\Roaming\npm\node_modules\appium\node_modules\@appium\base-driver\lib\jsonwp-proxy\proxy.js:330:19)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at AndroidUiautomator2Driver.getScreenshot (C:\Users\Mahmud-Rabby-QA\.appium\node_modules\appium-uiautomator2-driver\lib\commands\screenshot.js:42:5)

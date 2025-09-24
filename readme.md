@@ -484,6 +484,8 @@ This section explains how to safely contribute to the framework without breaking
 
    - Example: `bugfix/dialog-handling`
 
+   
+
 4. **Pull Requests (PRs)**
    - Push your branch to the repository:
 
